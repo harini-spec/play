@@ -22,6 +22,4 @@ sbt run
 
 # Host
 
-'''
 http://localhost:9000/todo
-'''
